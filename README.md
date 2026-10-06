@@ -51,6 +51,9 @@ A compact, reliable, and energy-efficient custom hardware platform engineered fo
 - **Mechanical Form Factor**: Designed with 4 corner mounting holes for standard standoffs and protective enclosure mounting.
 
 ---
+## ⚖️ License
+
+This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0). See the [LICENSE](LICENSE) file for more information.
 
 ## 📂 Repository File Tree
 
